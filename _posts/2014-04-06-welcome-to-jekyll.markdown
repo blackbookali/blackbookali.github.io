@@ -20,5 +20,7 @@ jekyll server -w (runs the jekyll applications, you run this command whenever yo
 ran sublime
 
 git add . -A (step 1 of how to commit changes to github repository)
+
 git commit -m "some message"(step 2 of how to commit changes to github repository)
+
 git push origin master(step 3 of how to commit changes to github repository)
