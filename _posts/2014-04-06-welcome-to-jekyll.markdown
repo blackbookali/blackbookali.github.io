@@ -1,24 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to set up a Jekyll blog"
 date:   2014-04-06 11:20:50
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+gem install jekyll(was installing jekyll on to my terminal and jekyll - something in ruby to make blogs)
 
-Jekyll also offers powerful support for code snippets:
+jekyll new blackbookali (made a new jekyll application called 'blackbookali')
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+rben -version (helps you manager what version of ruby you are using)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+ruby -v (tells version of ruby you are using)
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+git remote add origin somerepository.git (connect the remote repository to the local repository, added the https line)
+
+jekyll server -w (runs the jekyll applications, you run this command whenever you make changes to your jekyll application)
+
