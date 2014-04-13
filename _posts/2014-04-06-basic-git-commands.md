@@ -44,3 +44,14 @@ categories: jekyll update
   jekyll server -w
   # run local application and watch file changes
 ```
+
+### SUBLIME COMMANDS
+
+```
+  shift command 'p'
+  #opens the command pallette 
+  enter toggle
+  select view toggle side bar
+```
+
+
