@@ -16,4 +16,7 @@ VOCABULARY
 
 RVM -
 Local Changes 
+run application locally
+
+
 
